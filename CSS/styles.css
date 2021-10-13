@@ -1,5 +1,6 @@
 span {
-    color: rgb(236, 236, 39);
+    color: rgb(236, 223, 39);
+    text-shadow: black 0px 0px 3px;
     font-size: larger;
-    font-weight: bolder;
+    font-weight: bolder;  
 }
