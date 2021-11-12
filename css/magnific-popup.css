@@ -360,7 +360,7 @@ img.mfp-img {
 .word span {
 	cursor: pointer;
 	display: inline-flex;
-	font-size: 75px;
+	font-size: 60px;
 	user-select: none;
 	line-height: .8;
 }
