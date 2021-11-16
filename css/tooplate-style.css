@@ -75,6 +75,7 @@ footer a:link, footer a:visited {
 .tm-nav-link:visited {
   color: black;
   background-color: white;
+  border-radius: 5px;
   border: solid black 1px;
   padding: 10px 40px;
   display: block;
