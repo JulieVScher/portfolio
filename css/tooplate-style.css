@@ -45,6 +45,7 @@ footer a:link, footer a:visited {
   color: black;
   background: white;
   border: solid black 1px;
+  border-radius: 5px;
   padding: 10px 20px;
   margin-bottom: 18px;
   width: 95px;
