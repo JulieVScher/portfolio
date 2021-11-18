@@ -642,10 +642,7 @@ figure.effect-goliath:hover p {
 }
 
 @media (max-width: 480px) {
-
-    body {font-size: 20px;
-  }
-
+  
   .grid {
     max-width: 220px;
   }
@@ -661,7 +658,7 @@ figure.effect-goliath:hover p {
   }
 
   .tm-section-title {
-    font-size: 1.4rem;
+    font-size: 2.4rem;
   }
 }
 
@@ -671,10 +668,6 @@ figure.effect-goliath:hover p {
 
 .linktoproject {
   tex
-}
-
-.text-center h1 {
-  font-size: 40px;
 }
 
 
