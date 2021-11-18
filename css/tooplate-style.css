@@ -16,7 +16,6 @@ body {
   font-size: 17px;
   color: #ffffff;
   overflow-x: hidden;
-  background: #25332e;
   body margin:2rem;
 }
 
@@ -62,6 +61,7 @@ footer a:link, footer a:visited {
   border: solid black 1px;
   text-decoration: none;
   background:rgba(0, 0, 0, 0.6);
+  border-radius: 5px;
  
 }
 
@@ -73,6 +73,7 @@ footer a:link, footer a:visited {
 .tm-nav-links {
   list-style: none;
   outline-style: solid black;
+  border-radius: 5px;
 }
 
 .tm-nav-link:link,
@@ -80,6 +81,7 @@ footer a:link, footer a:visited {
   color: black;
   background-color: white;
   border: solid black 1px;
+  border-radius: 5px;
   padding: 10px 40px;
   display: block;
   margin-bottom: 6px;
@@ -165,6 +167,7 @@ footer a:link, footer a:visited {
   display: inline-block;
   margin-right: 75px; 
   max-width: 100%;
+  border-radius: 5px;
 }
 
 .tm-link:focus,
@@ -172,7 +175,8 @@ footer a:link, footer a:visited {
   color: white;
   border: solid black 1px;
   text-decoration: none;
-  background:rgba(0, 0, 0, 0.6);;
+  background:rgba(0, 0, 0, 0.6);
+  border-radius: 5px;
 }
 
 .tm-bottom-container {
