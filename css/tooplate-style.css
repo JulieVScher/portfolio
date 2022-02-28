@@ -645,6 +645,11 @@ figure.effect-goliath:hover p {
   .slick-dots {
     bottom: -35px;
   }
+
+    .word span {
+      font-size: 30px;
+    }
+    
 }
 
 @media (max-width: 480px){

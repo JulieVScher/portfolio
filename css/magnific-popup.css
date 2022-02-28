@@ -360,7 +360,7 @@ img.mfp-img {
 .word span {
 	cursor: pointer;
 	display: inline-flex;
-	font-size: 35px;
+	font-size: 60px;
 	user-select: none;
 	line-height: .8;
 }
@@ -583,6 +583,7 @@ img.mfp-img {
 span {
     color:white;
 }
+
 
 footer {
   color:   rgba(0, 0, 0, 0.6);
