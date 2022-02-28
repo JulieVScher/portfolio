@@ -646,12 +646,9 @@ figure.effect-goliath:hover p {
     bottom: -35px;
   }
 
-    .word span {
-      font-size: 30px;
-    }
+  
     
 }
-
 @media (max-width: 480px){
 
 body {
@@ -694,6 +691,9 @@ body {
   font-size: 40px;
 }
 
+.word span {
+  font-size: 30px;
+}
 
 %animation-default {
   opacity: 1 !important;
